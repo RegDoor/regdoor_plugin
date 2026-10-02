@@ -62,7 +62,7 @@ To point at the dev MCP, add `dev-mcp.regdoor.com` (or `dev-mcp.us.regdoor.com`)
 
 ## Directory submission checklist
 
-What Anthropic reviews is the `regdoor/` folder only: `README.md` (user-facing, discloses the data flow), `LICENSE`, `logo.svg` and the listing URLs in `plugin.json`. `scripts/`, `dist/` and this README stay outside the plugin. Before submitting, add `supportUrl` / `documentationUrl` to `plugin.json` once public pages exist.
+What Anthropic reviews is the `regdoor/` folder only: `README.md` (user-facing, discloses the data flow), `LICENSE`, `logo.svg` and the listing URLs in `plugin.json`. `scripts/`, `dist/` and this README stay outside the plugin. `documentationUrl` points to `regdoor/README.md` and `supportUrl` to `SUPPORT.md` on GitHub; both need the repository to be public.
 
 ## Editing the style skill
 

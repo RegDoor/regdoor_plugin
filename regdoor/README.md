@@ -54,6 +54,11 @@ The plugin contacts no other destination.
 - Privacy policy: https://app.regdoor.com/policies/privacy_policy (US: https://app.us.regdoor.com/policies/privacy_policy)
 - Terms of use: https://app.regdoor.com/policies/terms_of_use (US: https://app.us.regdoor.com/policies/terms_of_use)
 
+## Support
+
+Email support@regdoor.com. Common issues and what to include in your message:
+https://github.com/RegDoor/regdoor_plugin/blob/main/SUPPORT.md
+
 ## Limitations
 
 Output is regulatory intelligence, not legal advice. Coverage follows the RegDoor database for

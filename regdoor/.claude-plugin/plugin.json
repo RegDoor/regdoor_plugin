@@ -14,6 +14,8 @@
   "icon": "./logo.svg",
   "privacyPolicyUrl": "https://app.regdoor.com/policies/privacy_policy",
   "termsOfServiceUrl": "https://app.regdoor.com/policies/terms_of_use",
+  "documentationUrl": "https://github.com/RegDoor/regdoor_plugin/blob/main/regdoor/README.md",
+  "supportUrl": "https://github.com/RegDoor/regdoor_plugin/blob/main/SUPPORT.md",
   "userConfig": {
     "region_host": {
       "type": "string",
