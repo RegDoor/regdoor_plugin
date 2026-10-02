@@ -1,0 +1,14 @@
+{
+  "name": "regdoor",
+  "owner": { "name": "RegDoor", "url": "https://regdoor.com" },
+  "description": "RegDoor plugins for regulatory intelligence: MCP connector, routing procedure and use cases (research, obligations, comparison).",
+  "plugins": [
+    {
+      "name": "regdoor",
+      "displayName": "RegDoor Regulatory Intelligence",
+      "description": "Regulatory research, obligation analysis and regime comparison on top of the RegDoor knowledge base (MCP connector included).",
+      "version": "0.4.0",
+      "source": "./regdoor"
+    }
+  ]
+}

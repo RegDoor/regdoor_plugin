@@ -1,0 +1,26 @@
+{
+  "name": "regdoor",
+  "displayName": "RegDoor Regulatory Intelligence",
+  "version": "0.4.0",
+  "description": "Regulatory research, obligation analysis and regime comparison on top of the RegDoor knowledge base (MCP). Teaches Claude how to route questions through jurisdiction consultants, topic and regulator skills before searching, how to cite, and how to write decision-useful regulatory analysis. Works in claude.ai, Claude Desktop, Cowork and Claude Code.",
+  "author": {
+    "name": "RegDoor",
+    "url": "https://regdoor.com"
+  },
+  "homepage": "https://app.regdoor.com",
+  "license": "LicenseRef-RegDoor-Proprietary",
+  "keywords": ["regulatory", "compliance", "legal", "crypto", "PSAV", "MiCA", "BCB", "CVM", "regdoor"],
+  "icon": "./logo.svg",
+  "privacyPolicyUrl": "https://app.regdoor.com/policies/privacy_policy",
+  "termsOfServiceUrl": "https://app.regdoor.com/policies/terms_of_use",
+  "userConfig": {
+    "region_host": {
+      "type": "string",
+      "title": "RegDoor region",
+      "description": "Host of the RegDoor MCP server for your account's region: mcp.regdoor.com (EU) or mcp.us.regdoor.com (US). If you sign in at app.us.regdoor.com, choose mcp.us.regdoor.com.",
+      "options": ["mcp.regdoor.com", "mcp.us.regdoor.com"],
+      "default": "mcp.regdoor.com",
+      "required": true
+    }
+  }
+}
