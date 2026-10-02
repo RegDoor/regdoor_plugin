@@ -8,6 +8,7 @@
     "url": "https://regdoor.com"
   },
   "homepage": "https://app.regdoor.com",
+  "repository": "https://github.com/RegDoor/regdoor_plugin",
   "license": "LicenseRef-RegDoor-Proprietary",
   "keywords": ["regulatory", "compliance", "legal", "crypto", "PSAV", "MiCA", "BCB", "CVM", "regdoor"],
   "icon": "./logo.svg",

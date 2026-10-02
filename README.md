@@ -1,4 +1,4 @@
-# regdoor-plugins
+# regdoor_plugin
 
 RegDoor plugins for Claude. One plugin today, `regdoor/`, which bundles:
 
@@ -35,7 +35,7 @@ claude --plugin-dir ./regdoor
 Install through the marketplace (this repository is one):
 
 ```bash
-claude plugin marketplace add RegDoor/regdoor-plugins
+claude plugin marketplace add RegDoor/regdoor_plugin
 claude plugin install regdoor@regdoor
 ```
 
@@ -62,7 +62,7 @@ To point at the dev MCP, add `dev-mcp.regdoor.com` (or `dev-mcp.us.regdoor.com`)
 
 ## Directory submission checklist
 
-What Anthropic reviews is the `regdoor/` folder only: `README.md` (user-facing, discloses the data flow), `LICENSE`, `logo.svg` and the listing URLs in `plugin.json`. `scripts/`, `dist/` and this README stay outside the plugin. Before submitting, add `repository` (and `supportUrl` / `documentationUrl` once public pages exist) to `plugin.json`.
+What Anthropic reviews is the `regdoor/` folder only: `README.md` (user-facing, discloses the data flow), `LICENSE`, `logo.svg` and the listing URLs in `plugin.json`. `scripts/`, `dist/` and this README stay outside the plugin. Before submitting, add `supportUrl` / `documentationUrl` to `plugin.json` once public pages exist.
 
 ## Editing the style skill
 
