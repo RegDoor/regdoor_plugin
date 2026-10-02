@@ -1,4 +1,4 @@
-# regdoor_plugin
+# RegDoor Plugin
 
 RegDoor plugins for Claude. One plugin today, `regdoor/`, which bundles:
 
