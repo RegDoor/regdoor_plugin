@@ -12,8 +12,8 @@
   "license": "LicenseRef-RegDoor-Proprietary",
   "keywords": ["regulatory", "compliance", "legal", "crypto", "PSAV", "MiCA", "BCB", "CVM", "regdoor"],
   "icon": "./logo.svg",
-  "privacyPolicyUrl": "https://app.regdoor.com/policies/privacy_policy",
-  "termsOfServiceUrl": "https://app.regdoor.com/policies/terms_of_use",
+  "privacyPolicyUrl": "https://regdoor.com/legal/privacy-policy",
+  "termsOfServiceUrl": "https://regdoor.com/legal/terms",
   "documentationUrl": "https://github.com/RegDoor/regdoor_plugin/blob/main/regdoor/README.md",
   "supportUrl": "https://github.com/RegDoor/regdoor_plugin/blob/main/SUPPORT.md",
   "userConfig": {

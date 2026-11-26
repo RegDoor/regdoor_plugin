@@ -51,8 +51,8 @@ The plugin contains only instructions; it runs no local code.
 
 The plugin contacts no other destination.
 
-- Privacy policy: https://app.regdoor.com/policies/privacy_policy (US: https://app.us.regdoor.com/policies/privacy_policy)
-- Terms of use: https://app.regdoor.com/policies/terms_of_use (US: https://app.us.regdoor.com/policies/terms_of_use)
+- Privacy policy: https://regdoor.com/legal/privacy-policy
+- Terms of use: https://regdoor.com/legal/terms
 
 ## Support
 
