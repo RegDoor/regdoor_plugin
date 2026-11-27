@@ -25,5 +25,5 @@ Do not send passwords, tokens or confidential company information by email.
 How the plugin works, setup and data handling:
 [regdoor/README.md](regdoor/README.md)
 
-- Privacy policy: https://app.regdoor.com/policies/privacy_policy (US: https://app.us.regdoor.com/policies/privacy_policy)
-- Terms of use: https://app.regdoor.com/policies/terms_of_use (US: https://app.us.regdoor.com/policies/terms_of_use)
+- Privacy policy: https://regdoor.com/legal/privacy-policy
+- Terms of use: https://regdoor.com/legal/terms
